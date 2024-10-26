@@ -1,0 +1,12 @@
+query AllUser {
+  users {
+    id
+    name
+    password
+    account
+    desc
+    tel
+    createTime
+    updateTime
+  }
+}
